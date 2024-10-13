@@ -1,3 +1,3 @@
 # XSS-Detection-CNN
 
-This web is using for thesis purpose!
+This model is using for thesis purpose!
